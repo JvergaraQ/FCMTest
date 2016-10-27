@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseTest</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+</resources>
